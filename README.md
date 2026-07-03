@@ -26,7 +26,8 @@
 
 ### cookie 获取
 登录你的账号,按F12或页面空白处 右键➡检查➡选择应用程序或appcations 找到对应的字段点击获取对应的值，详情如图
-<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/972a90f0-5738-4e65-a523-b3b2549d9924" />
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/e532b0d6-9f12-45fd-8af9-69e1029a1a92" />
+
 
 
 ### 获取 `GH_TOKEN`(GitHub Personal Access Token)
